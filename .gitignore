@@ -1,0 +1,28 @@
+# Build and publish output
+**/bin/
+**/obj/
+/build/
+/artifacts/
+
+# User-specific application settings
+**/config.json
+
+# Visual Studio and IDE state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
+
+# Local publish profile state
+**/Properties/PublishProfiles/*.pubxml.user
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local screenshots saved with the Hcccc prefix
+/Hcccc_*.jpg
