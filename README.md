@@ -1,6 +1,6 @@
 # Gato
 
-Gato is a Windows desktop utility for adjusting display gamma through the Windows display gamma ramp. It is a modern rewrite inspired by the original Gapa application.
+Gato is a Windows desktop utility for adjusting display gamma through the Windows display gamma ramp. It is a modern rewrite inspired by the original [Gapa (Gamma Panel)](https://www.majorgeeks.com/files/details/gamma_panel.html) application.
 
 ## Features
 
@@ -11,6 +11,10 @@ Gato is a Windows desktop utility for adjusting display gamma through the Window
 - Save and switch between profiles, and assign a keyboard shortcut to a profile.
 - Keep the app available from the notification area (system tray), switch profiles there, reset all monitors, or exit.
 - Optionally start Gato when you sign in to Windows.
+
+## Screenshot
+
+![Gato main window](Screenshot/GammaTool_mainpage.jpg)
 
 ## Requirements
 
